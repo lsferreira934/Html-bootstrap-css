@@ -1,0 +1,158 @@
+/*----Principal-----*/
+
+.body{
+    background-color: black;
+
+}
+
+.corpo{
+    margin: auto;
+    width: 960px;
+}
+
+.conteudoTab{
+    display: table;
+}
+
+.imagemTab{
+    display: table-cell;
+    float: left;
+}
+
+.texto{  
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.linktop{
+    font: times;
+    color: green;
+    text-align: center;
+    text-decoration: none;
+    font-size: 120%;
+    word-spacing: 30px;
+}
+
+.imagem{
+    border-radius: 60%;
+    border-color:green;
+    border-width: medium;
+    border-style: dashed;    
+    width: auto;
+    height: auto;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.linkredes{
+    font: arial;
+    color: green;    
+    font-size: 100%;
+    text-decoration: none;
+    word-spacing: 6px;
+}
+
+.texto{
+    text-align: center;
+    color: white;
+}
+
+/*----Familia-----*/
+
+.imagemTabRight{
+    display: table-cell;
+    float: right;
+    object-fit: contain;
+}
+.textoFamiliaRight{  
+    display: table-cell;
+    float: right;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+}
+.textoFamiliaLeft{  
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center;
+    color: white;
+}
+.imagemFamilia{
+
+    border-radius: 200%;
+    border-color:green;
+    border-style: dashed;    
+    max-width: 400px;
+    max-height: 400px;
+    
+}
+/*----Amigos-----*/
+
+.textoAmigosRight{  
+    display: table-cell;
+    float: right;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+}
+.textoAmigosLeft{  
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center;
+    color: white;
+}
+.imagemAmigos{
+
+    border-radius: 90%;
+    border-color:green;
+    border-style: dashed;    
+    max-width: 400px;
+    max-height: 600px;
+    
+}
+
+/*----Animais-----*/
+
+.textoAnimaisRight{  
+    display: table-cell;
+    float: right;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    color: white;
+}
+.textoAnimaisLeft{  
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center;
+    color: white;
+}
+.imagemAnimais{
+
+    border-radius: 90%;
+    border-color:green;
+    border-style: dashed;    
+    max-width: 400px;
+    max-height: 600px;
+    
+}
